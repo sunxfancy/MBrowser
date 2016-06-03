@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/back.png</file>
+        <file>img/big-cogwheel.png</file>
+        <file>img/download.png</file>
+        <file>img/favourite-symbol.png</file>
+        <file>img/forward.png</file>
+        <file>img/loading.png</file>
+        <file>img/menu.png</file>
+        <file>img/menu-bars.png</file>
+        <file>img/refresh.png</file>
+        <file>img/star.png</file>
+        <file>img/star-1.png</file>
+        <file>img/star.svg</file>
+        <file>img/star-1.svg</file>
+    </qresource>
+</RCC>
